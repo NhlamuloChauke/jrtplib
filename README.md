@@ -15,7 +15,8 @@ ACKNOWLEDGMENT
 I would like thank the people at the Expertise Centre for Digital Media
 for giving me the opportunity to use this library.
 
-# ==============================================
+ADDITIONAL INFO
+===============
 
 use catkin make isolated to compile the package.
 
